@@ -3,10 +3,10 @@
   
   # 🏆 Credit:
   <a href="https://www.github.com/bituq/" />
-  This Read-Me repo's code is made by bituq!
+  This Read-Me repo's code is made by bituq! (I do not have his permission)
   
   # 📖 How to customize:
-  1. Open source code.
+  1. Scroll down to script.
 
   2. Copy raw materials (script).
 
@@ -18,7 +18,7 @@
 
   6. Paste script.
 
-  7. on ```<img src=... />``` you will need your own banner, to do that search SVG Banners on the GitHub website by Akshay090
+  7. on ```<img src=... />``` you will need your own banner, to do that search SVG Banners on the GitHub website by Akshay090.
 
   8. Follow the instructions on that repo.
 
@@ -33,7 +33,7 @@
   # 📌 Important things to understand
   It is HIGHLY recommended you are able to read and understand scripts, in order to easily customize the ```Read-Me``` Script. Again, this script is not made by me, I cannot script on GitHub just yet, but I have experience with scripting so I was able to customize the script from Bituq's ```Read-Me``` repo really easily.
   
-  # 👨‍💻 Souce (script from inside the ```Read-Me``` repo with info/guidence as to what to put in what place.)
+  # 👨‍💻 Source (script from inside the ```Read-Me``` repo with info/guidence as to what to put in what place.)
   
   About Me script:
   ```
